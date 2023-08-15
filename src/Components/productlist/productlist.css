@@ -1,0 +1,28 @@
+.pl{
+    padding: 50px 100px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    height: 100vh;
+}
+
+.pl-texts{
+    width: 65%;
+}
+
+.pl-title{
+    font-weight: 600;
+    font-size: 50px;
+}
+
+.pl-desc{
+    margin: 20px 0px;
+}
+
+.pl-list{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
